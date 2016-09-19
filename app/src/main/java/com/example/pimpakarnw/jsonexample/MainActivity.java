@@ -55,6 +55,9 @@ public class MainActivity extends AppCompatActivity {
         {
             e.printStackTrace();
         }
+
+        /*Test*/
+        System.out.println("TAO");
     }
 
     /*@Override
